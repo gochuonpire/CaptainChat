@@ -1,0 +1,9 @@
+name: CaptainChat
+main: me.captain.chat.CaptainChat
+author: captainawesome7
+version: 1.1
+depend: [PermissionsEx]
+commands:
+  chat:
+    Description: Do chat stuff
+    Usage: /chat <stuff>
